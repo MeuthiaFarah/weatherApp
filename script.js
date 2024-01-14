@@ -11,7 +11,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 
-const apiKey = '98f23fa29a589c955274eb11accbd5ff';
+const apiKey = 'API_KEY_ADA_DI_DOKUMEN';
 
 function searchLocation() {
     const locationInput = document.getElementById('location').value;
