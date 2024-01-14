@@ -1,0 +1,25 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+#map {
+    height: 550px;
+    border: 1px solid #ddd;
+}
+
+#weather-info {
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+#content {
+    display: -flex;
+    flex: 1;
+    margin: 1px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    border-radius: 8px;
+}
